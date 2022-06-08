@@ -1,4 +1,4 @@
-# NFT Marketplace - Lets Build a Rug Pull
+# NFT Marketplace
 
 ## ART
 
